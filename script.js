@@ -66,4 +66,4 @@ bookForm.addEventListener("submit", (event) => {
   bookForm.reset();
 });
 
-// displayBooks();
+displayBooks();
